@@ -1,0 +1,13 @@
+h1{
+	color:blue;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+h2{
+	color:red;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+p{
+	color:green;
+}
